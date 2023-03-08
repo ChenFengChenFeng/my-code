@@ -1,1 +1,1 @@
-# my-code
+Data Structure learning by master.
