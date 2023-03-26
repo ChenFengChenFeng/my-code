@@ -1,0 +1,3 @@
+/mnt/hgfs/share/Data Structure/chainArray/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/Data Structure/chainArray/build/CMakeFiles/test.dir
+/mnt/hgfs/share/Data Structure/chainArray/build/CMakeFiles/edit_cache.dir

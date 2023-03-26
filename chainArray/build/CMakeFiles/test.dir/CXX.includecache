@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/share/Data Structure/chainArray/chain.cpp
+iostream
+-
+chainNode.h
+/mnt/hgfs/share/Data Structure/chainArray/chainNode.h
+linearList.h
+/mnt/hgfs/share/Data Structure/chainArray/linearList.h
+chain.h
+/mnt/hgfs/share/Data Structure/chainArray/chain.h
+extendedChain.h
+/mnt/hgfs/share/Data Structure/chainArray/extendedChain.h
+
+/mnt/hgfs/share/Data Structure/chainArray/chain.h
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+chainNode.h
+/mnt/hgfs/share/Data Structure/chainArray/chainNode.h
+linearList.h
+/mnt/hgfs/share/Data Structure/chainArray/linearList.h
+
+/mnt/hgfs/share/Data Structure/chainArray/chainNode.h
+
+/mnt/hgfs/share/Data Structure/chainArray/chainWithIterator.h
+iostream
+-
+sstream
+-
+string
+-
+linearList.h
+/mnt/hgfs/share/Data Structure/chainArray/linearList.h
+chainNode.h
+/mnt/hgfs/share/Data Structure/chainArray/chainNode.h
+
+/mnt/hgfs/share/Data Structure/chainArray/extendedChain.h
+iostream
+-
+sstream
+-
+string
+-
+extendedLinearList.h
+/mnt/hgfs/share/Data Structure/chainArray/extendedLinearList.h
+chainWithIterator.h
+/mnt/hgfs/share/Data Structure/chainArray/chainWithIterator.h
+iostream
+-
+
+/mnt/hgfs/share/Data Structure/chainArray/extendedLinearList.h
+
+/mnt/hgfs/share/Data Structure/chainArray/linearList.h
+iostream
+-
+
