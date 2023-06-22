@@ -1,0 +1,3 @@
+/mnt/hgfs/share/my-code/stack/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/my-code/stack/build/CMakeFiles/test.dir
+/mnt/hgfs/share/my-code/stack/build/CMakeFiles/edit_cache.dir

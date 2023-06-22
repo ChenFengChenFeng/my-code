@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/share/my-code/stack/chainNode.h
+
+/mnt/hgfs/share/my-code/stack/linkedStack.h
+stack.h
+/mnt/hgfs/share/my-code/stack/stack.h
+chainNode.h
+/mnt/hgfs/share/my-code/stack/chainNode.h
+iostream
+-
+
+/mnt/hgfs/share/my-code/stack/main.cpp
+linkedStack.h
+/mnt/hgfs/share/my-code/stack/linkedStack.h
+iostream
+-
+sys/time.h
+-
+
+/mnt/hgfs/share/my-code/stack/stack.h
+
